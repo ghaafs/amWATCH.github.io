@@ -1,0 +1,51 @@
+.container {
+    width: 800px;
+    margin: auto;
+    background-color:  #000d1a;
+    color: #e00043;
+    font-family: 'Gill Sans';
+    text-align: center;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    background-color: #ffcccc;
+}
+
+.judul.header.container {
+    font-size: 400px;
+    font-weight: 900;
+}
+
+.subjudul {
+    color: #e00043;
+    text-align: center;
+}
+
+
+.img {
+    width: 150px;
+    border: #ffcccc;
+    border-style: outset;
+}
+
+.img.film1{
+    width: 75px;
+}
+
+.ending {
+    padding: 60px;
+    text-align: center;
+    color: #ffcccc;
+}
+
+.a1 {
+    width: 800px;
+    margin: auto;
+    background-color:  #000d1a;
+    color: #e00043;
+
+    font-family: 'Gill Sans';
+    text-align: center;
+}
