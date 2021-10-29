@@ -1,5 +1,6 @@
 # amWATCH-frontend-GDSC-ITB 
 
+- main link : halo.html
 ====== MAIN PAGE ======
 ![Screenshot (874)](https://user-images.githubusercontent.com/91824729/139449127-e36a13b7-1faf-4aa7-a6ae-0b11bae028da.png) 
 
